@@ -1,5 +1,4 @@
-loup.zip  c8e31ff95488be6dace4b96dd0d5f7d900b182e7
-voyante.zip  a6403e5366a31cba042b8b5c64fba9ed5769cc5f
-sorciere.zip  1a92c85e0bf44101b7dd20ea6ff0050b1b84660e
-chasseur.zip  60d6169a3a06eaafe7ae8e870fb97ee2e2743117
-villageois.zip  441b15465dfed5de4a706d6badb0208b590abbcb
+voyante.zip  b61e06fca28e90b9fe4099ebeda03811ad8159ec
+sorciere.zip  4dd1234f4b72debadf64b14b2250e0e71fcd2edf
+chasseur.zip  7fad67d1cafc0cd9bddb2cc32f0faa26793a3dc4
+villageois.zip  3d33b1ddb8e9f8cccaee0f7f95cc701e1949ad08
